@@ -1,0 +1,3 @@
+On devrait avoir une baseline, un model naïf, le plus simple imaginable, sur lequel se baser pour estimer la bonne qualité de notre projet pour l'évaluation. 
+Notre modèle complexe devra battre ce modèle.
+On doit utiliser une confusion matrix (TP, TN, FP, FN)
