@@ -1,0 +1,57 @@
+# Smart School
+
+Projet AI/ML réalisé dans le cadre du cours de Smart School ECAM.
+
+L’objectif du projet est d’utiliser des techniques de Machine Learning et de Deep Learning pour répondre à deux besoins de l’école :
+
+1. **Failure Prediction**
+   Prédire la note finale d’un étudiant afin d’identifier les étudiants à risque d’échec (note prédite < 50) et permettre la mise en place d’un accompagnement adapté.
+
+2. **Automatic Correction / OCR**
+   Développer un système de reconnaissance de caractères manuscrits (OCR) pour automatiser la correction des examens et tests.
+
+---
+
+## Structure du projet
+
+```text
+smart_school/
+│
+├── failure_prediction/
+│   └── notebooks, modèles et analyses liés à la prédiction d’échec
+│
+├── automatic_correction/
+│   └── notebooks, modèles et analyses liés au système OCR
+│
+├── Project 2026 dataset.zip
+│
+└── README.md
+```
+
+---
+
+## Technologies utilisées
+
+* Python 3.12.3
+* Kaggle Notebook
+* TensorFlow / Keras
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+---
+
+
+
+Le projet comprend :
+
+* l’analyse exploratoire des données (EDA)
+* le prétraitement des données
+* la sélection et l’ingénierie des features
+* l’entraînement de plusieurs modèles
+* la comparaison des performances
+* l’analyse critique des résultats
+
+---
