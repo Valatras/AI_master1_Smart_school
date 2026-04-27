@@ -33,13 +33,13 @@ smart_school/
 ## Technologies utilisées
 
 * Python 3.12.3
-* Kaggle Notebook
+* Kaggle Notebook(potentiellement)
 * TensorFlow / Keras
 * Scikit-learn
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
+* Seaborn(potentiellement)
 
 ---
 
@@ -55,3 +55,14 @@ Le projet comprend :
 * l’analyse critique des résultats
 
 ---
+
+## Failure prediction :
+
+pour démarrer le projet, créer son propre venv au root et importer les requirements. Voici une liste de commande bash (linux) à titre indicatif à adapter selon votre environnement de développement. :
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+Ensuite vous pouvez simplement suivre le notebook dans le dossier '/failure_prediction'
