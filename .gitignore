@@ -1,2 +1,7 @@
-Project 2026 dataset.zip
+.vscode
 venv/
+
+
+# ignoring created dataset
+projects/Smart_School/failure_prediction/student_dataset
+Project 2026 dataset.zip
