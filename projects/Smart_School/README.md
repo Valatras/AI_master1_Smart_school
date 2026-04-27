@@ -1,6 +1,6 @@
 # Smart School
 
-Projet AI/ML réalisé dans le cadre du cours de Smart School ECAM.
+Projet AI/ML réalisé dans le cadre du cours d'artificial intelligence à l'ECAM (master 1 software engineering).
 
 L’objectif du projet est d’utiliser des techniques de Machine Learning et de Deep Learning pour répondre à deux besoins de l’école :
 
